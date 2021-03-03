@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Doma, front-end developer at HYEPRS Inc.
+
+I'm currently:
+
 <!--
 **SevenOutman/SevenOutman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 Working on
+### 🔭 Working on
 - [React Suite](https://github.com/rsuite)
 
-## 🌱 Learning
+### 🌱 Learning
 - Unit testing in React apps (w/ Jest and React Testing Library)
