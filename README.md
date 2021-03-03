@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 ### 🌱 Learning
 - Unit testing in React apps (w/ Jest and React Testing Library)
+- WAI-ARIA (Improving a11y in React Suite)
