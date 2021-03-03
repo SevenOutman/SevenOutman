@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 Working on
+- [React Suite](https://github.com/rsuite)
+
+## 🌱 Learning
+- Unit testing in React apps (w/ Jest and React Testing Library)
