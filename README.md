@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 Working on
-- [React Suite](https://github.com/rsuite)
+- [React Suite](https://github.com/rsuite) - A React components library made by HYPERS
 
 ### 🌱 Learning
 - Unit testing in React apps (w/ Jest and React Testing Library)
