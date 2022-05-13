@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🌱 Learning
 - Unit testing in React apps (w/ Jest and React Testing Library)
 - WAI-ARIA (Improving a11y in React Suite)
-- Release management (How to properly distribute features/refactors via planned released)
+- Release management (How to properly distribute features/refactors via planned releases)
 
 ### :octocat: My GitHub Stats
 ![Doma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOutman&hide_title=true&show_icons=true&icon_color=0366d6)
