@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 ### :octocat: My GitHub Stats
 ![Doma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOutman&hide_title=true&show_icons=true&icon_color=0366d6)
+
+
+<img align="left" width="100" height="20" src="https://hits-app.vercel.app/hits?url=https://github.com/SevenOutman&bgRight=FAA0A0" />
