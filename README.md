@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 Working on
-- [React Suite](https://github.com/rsuite/rsuite) - A React components library made by HYPERS
+- [React Suite](https://rsuitejs.com) - A React components library made by HYPERS
+- [`aplayer-react`](https://aplayer-react.js.org) - A React music player component I use on my blog site
 
 ### 🌱 Learning
-- Unit testing in React apps (w/ Jest and React Testing Library)
 - WAI-ARIA (Improving a11y in React Suite)
 - Release management (How to properly distribute features/refactors via planned releases)
 
