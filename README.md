@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 Working on
-- [React Suite](https://rsuitejs.com) - A React components library made by HYPERS
+
+I primarily work on [React Suite](https://rsuitejs.com), a React components library made and used by frontend team of HYPERS Inc.
+
+I also made a few random stuff, most of which are available as npm packages:
+
 - [`aplayer-react`](https://aplayer-react.js.org) - A React music player component I use on my blog site
+- [`setup-msw`](https://github.com/SevenOutman/setup-msw) - A CLI that sets up Mock Service Worker for you
+- [`prettier-plugin-sort-markdown-table`](https://github.com/SevenOutman/prettier-plugin-sort-markdown-table) - A Prettier plugin that sorts table rows in markdown files
 
 ### 🌱 Learning
 - WAI-ARIA (Improving a11y in React Suite)
