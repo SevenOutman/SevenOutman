@@ -23,11 +23,18 @@ Here are some ideas to get you started:
 
 I primarily work on [React Suite](https://rsuitejs.com), a React components library made and used by frontend team of HYPERS Inc.
 
-I also made a few random stuff, most of which are available as npm packages:
+I also made a few random stuff
+
+#### Sites
+
+- [Hubble](https://hubble.js.org) - A tool to travel through GitHub repos' star history
+
+#### npm packages
 
 - [`aplayer-react`](https://aplayer-react.js.org) - A React music player component I use on my blog site
 - [`setup-msw`](https://github.com/SevenOutman/setup-msw) - A CLI that sets up Mock Service Worker for you
 - [`prettier-plugin-sort-markdown-table`](https://github.com/SevenOutman/prettier-plugin-sort-markdown-table) - A Prettier plugin that sorts table rows in markdown files
+- [`compose-providers`](https://github.com/SevenOutman/compose-providers) - A tool to get you out from deep-nested React Providers
 
 ### 🌱 Learning
 - WAI-ARIA (Improving a11y in React Suite)
