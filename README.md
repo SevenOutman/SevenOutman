@@ -34,6 +34,7 @@ I also made a few random stuff
 - [`aplayer-react`](https://aplayer-react.js.org) - A React music player component I use on my blog site
 - [`setup-msw`](https://github.com/SevenOutman/setup-msw) - A CLI that sets up Mock Service Worker for you
 - [`prettier-plugin-sort-markdown-table`](https://github.com/SevenOutman/prettier-plugin-sort-markdown-table) - A Prettier plugin that sorts table rows in markdown files
+- [`react-use-set`](https://github.com/SevenOutman/react-use-set) - Set-like API with React hook
 - [`compose-providers`](https://github.com/SevenOutman/compose-providers) - A tool to get you out from deep-nested React Providers
 
 ### 🌱 Learning
