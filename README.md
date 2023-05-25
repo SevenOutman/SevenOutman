@@ -27,6 +27,7 @@ I also made a few random stuff
 
 #### Sites
 
+- [Easy LeetCode](https://ezlc.app) - Reusable snippets for LeetCoders
 - [Hubble](https://hubble.js.org) - A tool to travel through GitHub repos' star history
 
 #### npm packages
@@ -38,12 +39,12 @@ I also made a few random stuff
 - [`react-use-set`](https://github.com/SevenOutman/react-use-set) - Set-like API with React hook
 - [`compose-providers`](https://github.com/SevenOutman/compose-providers) - A tool to get you out from deep-nested React Providers
 
-### 🌱 Learning
-- WAI-ARIA (Improving a11y in React Suite)
-- Release management (How to properly distribute features/refactors via planned releases)
+### 💖 Sponsor
+
+If you would like to help me keep my open-source work sustainable, please consider [sponsoring me](https://doma.land/sponsors).
 
 ### :octocat: My GitHub Stats
 ![Doma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOutman&hide_title=true&show_icons=true&icon_color=0366d6)
 
 
-<img align="left" width="100" height="20" src="https://hits-app.vercel.app/hits?url=https://github.com/SevenOutman&bgRight=FAA0A0" />
+<img align="left" width="100" height="20" src="https://hits-app.vercel.app/hits?url=https://github.com/SevenOutman&bgLeft=000&bgRight=000" />
