@@ -41,7 +41,7 @@ I also made a few random stuff
 
 ### 💖 Sponsor
 
-If you would like to help me keep my open-source work sustainable, please consider [sponsoring me](https://doma.land/sponsors).
+If you would like to help me keep my open-source work sustainable, please consider [sponsoring me](https://github.com/sponsors/SevenOutman).
 
 ### :octocat: My GitHub Stats
 ![Doma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOutman&hide_title=true&show_icons=true&icon_color=0366d6)
