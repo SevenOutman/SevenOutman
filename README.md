@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔭 Working on
 
-I primarily work on [React Suite](https://rsuitejs.com), a React components library made and used by frontend team of HYPERS Inc.
-
-I also made a few random stuff
+A few random stuff
 
 #### Sites
 
