@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Doma, front-end developer at HYPERS Inc.
+This is Doma.
 
 I'm currently:
 
